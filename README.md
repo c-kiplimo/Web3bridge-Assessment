@@ -27,9 +27,7 @@ To clone the repository to your local machine:
 ```npm install```
 
 ### Start the Game
-+ Start the game using npm:
-
-Open your browser and navigate to http://localhost:3000 to play the game.
++ Start the by opening the index.htm project in your browser
 
 ### Running Tests
 + To run tests for the Number Guesser Game:
