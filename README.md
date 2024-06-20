@@ -19,12 +19,12 @@ The Number Guesser Game is a simple JavaScript-based game where the player tries
 To clone the repository to your local machine:
 
 
-git clone https://github.com/c-kiplimo/Web3bridge-Assessment.git
-cd Web3bridge-Assessment 
+```git clone https://github.com/c-kiplimo/Web3bridge-Assessment.git`
+```cd Web3bridge-Assessment```  
 
 ### Install Dependencies
 + Install project dependencies:
-npm install
+```npm install `
 
 ### Start the Game
 + Start the game using npm:
@@ -34,4 +34,4 @@ Open your browser and navigate to http://localhost:3000 to play the game.
 ### Running Tests
 + To run tests for the Number Guesser Game:
 
-npm test
+```npm test
